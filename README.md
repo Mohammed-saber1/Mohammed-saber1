@@ -6,7 +6,7 @@
 
 <div align="center">
   <br>
-  I'm Mohammed Saber, a Generative AI Engineer and LLM Specialist based in Cairo, Egypt. I specialize in fine-tuning large language models, building RAG architectures, and deploying scalable AI solutions. Passionate about NLP, computer vision, and intelligent automation. <br>
+  I'm Mohammed Saber, a Generative AI Engineer and LLM Specialist. I specialize in fine-tuning large language models, building RAG architectures, and deploying scalable AI solutions. Passionate about NLP. <br>
   Feel free to explore my projects or reach out! <br>
   Ask me anything <a href="https://github.com/Mohammed-saber1/Mohammed-Saber/issues/new"><b>here</b></a><br>
   or <a href="mailto:mohammed.saber.business@gmail.com"><b>email</b></a> 
