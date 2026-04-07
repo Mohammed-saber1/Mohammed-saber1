@@ -4,10 +4,9 @@
 
 <br>
 
-### AI Engineer | LLM Systems Architect | Multi-Agent AI Systems
+### AI Engineer · LLM Systems Architect · Multi-Agent Systems
 
-Building **production-grade AI platforms**, **LLM systems**, and **RAG pipelines** that transform complex data into intelligent applications.
-
+Designing and shipping **production-grade AI platforms** — from intelligent RAG pipelines and multi-agent orchestration to real-time computer vision systems — with a focus on reliability, scalability, and measurable business impact.
 📍 Cairo, Egypt  
 📧 mohammed.saber.business@gmail.com  
 
@@ -39,6 +38,7 @@ Designing and deploying **production-scale AI systems** for enterprise applicati
 • Built **automated brand monitoring platform** analyzing 4,500+ social posts monthly  
 • Developed **media analysis platform** processing 80+ hours of audio/video weekly using Whisper and speaker diarization  
 • Built **SiteGuard Vision AI** — a modular real-time safety and monitoring platform for industrial environments using computer vision  
+• Engineered **real-time safety compliance system** using fine-tuned YOLOv8 for industrial monitoring  
 • Designed **RAG-powered enterprise chatbots** deployed across multiple production websites  
 • Implemented **distributed processing architecture** with Celery and Redis  
 • Developed scalable **FastAPI AI services** supporting concurrent requests and streaming responses  
@@ -138,14 +138,6 @@ Cairo, Egypt
 
 🏆 Graduation Project: **Dermatection**  
 Skin disease classification system using **ResNet50** trained on 10,000+ dermatology images achieving **94% accuracy**.
-
----
-
-# 📊 GitHub Activity
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-saber1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-saber1&layout=compact&theme=tokyonight)
 
 ---
 
