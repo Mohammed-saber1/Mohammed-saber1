@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B+I'm+Mohammed+Saber;Generative+AI+Engineer;LLM+Systems+%7C+RAG+Architect;Building+Production+AI+Platforms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B+I'm+Mohammed+Saber;AI+Engineer;LLM+Systems+%7C+RAG+Architect;Building+Production+AI+Platforms" />
 
 <br>
 
-### Generative AI Engineer | LLM Systems Architect | Multi-Agent AI Systems
+### AI Engineer | LLM Systems Architect | Multi-Agent AI Systems
 
 Building **production-grade AI platforms**, **LLM systems**, and **RAG pipelines** that transform complex data into intelligent applications.
 
@@ -20,7 +20,7 @@ Building **production-grade AI platforms**, **LLM systems**, and **RAG pipelines
 
 # 🧠 Professional Summary
 
-Generative AI Engineer specializing in **LLM systems, RAG architectures, and multi-agent AI platforms**.
+AI Engineer specializing in **LLM systems, RAG architectures, multi-agent AI platforms, and computer vision**.
 
 Experienced in building **production-ready AI services** using **LangChain, LangGraph, FastAPI, and distributed processing systems**. I focus on transforming complex business workflows into intelligent AI solutions across **brand intelligence, media analysis, enterprise automation, and industrial safety systems**.
 
@@ -28,7 +28,7 @@ Experienced in building **production-ready AI services** using **LangChain, Lang
 
 # 💼 Professional Experience
 
-## Generative AI Engineer — AiTech  
+## AI Engineer — AiTech  
 Cairo, Egypt | Jan 2025 – Present
 
 Designing and deploying **production-scale AI systems** for enterprise applications.
@@ -38,7 +38,7 @@ Designing and deploying **production-scale AI systems** for enterprise applicati
 • Architected **LLM-powered multi-agent systems** using LangChain, LangGraph, and CrewAI  
 • Built **automated brand monitoring platform** analyzing 4,500+ social posts monthly  
 • Developed **media analysis platform** processing 80+ hours of audio/video weekly using Whisper and speaker diarization  
-• Engineered **real-time safety compliance system** using fine-tuned YOLOv8 for industrial monitoring  
+• Built **SiteGuard Vision AI** — a modular real-time safety and monitoring platform for industrial environments using computer vision  
 • Designed **RAG-powered enterprise chatbots** deployed across multiple production websites  
 • Implemented **distributed processing architecture** with Celery and Redis  
 • Developed scalable **FastAPI AI services** supporting concurrent requests and streaming responses  
@@ -54,7 +54,8 @@ Designing and deploying **production-scale AI systems** for enterprise applicati
 • AI-powered document intelligence platforms  
 • Computer vision monitoring systems  
 • Distributed AI task processing pipelines  
-• Scalable AI backend systems
+• Scalable AI backend systems  
+• System design for production AI platforms  
 
 ---
 
@@ -93,6 +94,8 @@ Designing and deploying **production-scale AI systems** for enterprise applicati
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### 🗄 Databases & Vector Stores
