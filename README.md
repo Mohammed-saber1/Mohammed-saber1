@@ -1,119 +1,110 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Saber;AI+Engineer+%7C+LLM+Systems+Architect;RAG+%7C+Multi-Agent+Systems+%7C+Computer+Vision;Building+Production+AI+Platforms+That+Serve+Real+Users" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=140&section=header" width="100%"/>
 
-### AI Engineer building production-grade Generative AI, RAG, and Multi-Agent systems
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Software+Engineer;LLM+Systems+%26+RAG;Multi-Agent+Architectures;Production+AI+Infrastructure" alt="typing animation" />
 
-I take AI products from research to production — enterprise chatbot platforms, hybrid retrieval pipelines, multi-model orchestration, and real-time computer vision — with a focus on reliability, safety, and measurable business impact.
+<h3>Mohammed Saber</h3>
+<p>AI Software Engineer building generative AI systems that operate reliably at production scale.</p>
 
-📍 Cairo, Egypt &nbsp;|&nbsp; 📧 mohammed.saber.business@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://Muhammad-Saber.dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsaber14)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-saber1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.saber.business@gmail.com)
+<a href="https://linkedin.com/in/mohamedsaber14">LinkedIn</a> ·
+<a href="https://github.com/Mohammed-saber1">GitHub</a> ·
+<a href="https://Muhammad-Saber.dev">Portfolio</a> ·
+<a href="mailto:mohammed.saber.business@gmail.com">Email</a>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## About
 
-- 🤖 **AI Engineer** at AiTech, specializing in LLM systems, RAG, and multi-agent architectures
-- 🏗️ Building **production-grade hybrid RAG pipelines** with BM25, RRF, and cross-encoder reranking
-- 🔀 Designing **multi-model orchestration layers** across self-hosted and cloud LLMs (vLLM, OpenAI, Gemini, Mistral)
-- 🛡️ Implementing **AI safety systems** — hallucination detection, prompt injection prevention, HITL escalation
-- 👁️ Shipping **computer vision & voice AI** for industrial safety and media analysis at scale
-- 🎓 Also teaching ML/DL/GenAI as a part-time **AI Engineer Instructor**
-- 🌍 Open to remote AI Engineering opportunities
+I design and ship generative AI systems that run in production, not demos: hybrid retrieval architectures serving real query volume, multi-agent pipelines automating research and operations, and orchestration layers that route across multiple LLM providers without downtime. My focus is the part most AI projects skip: reliability, evaluation, and safety once a model leaves the notebook.
 
----
+## Current Focus
 
-## 💼 Production AI Experience
+- Engineering multi-agent systems that automate complex research and document-driven workflows, cutting manual effort for real business use cases
+- Strengthening LLM safety through hallucination detection, prompt-injection defense, and human-in-the-loop escalation frameworks  critical for enterprise trust
+- Architecting resilient, multi-model orchestration layers with automatic failover across hosted and self-hosted LLM providers to ensure uptime at scale
+## Current Focus
 
-**AI Engineer — AiTech** · Cairo, Egypt · *Jan 2025 – Present*
+- Engineering multi-agent systems that automate complex research and document-driven workflows, cutting manual effort for real business use cases
+- Strengthening LLM safety through hallucination detection, prompt-injection defense, and human-in-the-loop escalation frameworks  critical for enterprise trust
+- Architecting resilient, multi-model orchestration layers with automatic failover across hosted and self-hosted LLM providers to ensure uptime at scale
+- Building intelligent search systems that surface the right information from vast, unstructured data sources with precision
+- Applying machine learning and data science to turn raw data into accurate, decision-ready insights
+- Designing robust data engineering pipelines that keep information clean, structured, and ready for AI systems to use
+- Building scalable backend infrastructure that keeps AI products fast, dependable, and ready for production traffic
+- Applying computer vision and speech technologies to solve real-world challenges across industrial and media domains
 
-| Area | Impact |
+<br/>
+
+## Experience
+
+**AI Software Engineer (Full-time)** · AiTech · Cairo, Egypt · Jan 2025 – Present
+
+Leading the development of enterprise AI products from first concept through to production launch, turning promising early-stage ideas into dependable systems that clients can trust and rely on every day. Alongside these, I have also delivered a range of other enterprise-governed projects for the organization.
+
+| Initiative | Overview |
 |---|---|
-| 🤝 Multi-tenant enterprise chatbot platform | Serves multiple organizations, cut response time from 24h → real-time, **90% query resolution** |
-| 🔍 Hybrid RAG pipeline | Binary quantization + BM25 + Reciprocal Rank Fusion + Cross-Encoder reranking, multimodal retrieval via VLMs & PaddleOCR |
-| 🔀 Multi-model orchestration | Routes across self-hosted vLLM + OpenAI/Gemini/Mistral with load balancing, health checks, automatic failover |
-| 🛡️ AI safety & guardrails | Hallucination detection, prompt-injection prevention, semantic caching, self-reflection loops, HITL escalation |
-| 🧪 LLM-driven load testing | 100+ context-aware simulated personas for multi-turn behavioral validation |
-| 📊 Brand intelligence platform | 4,500+ monthly posts scraped (FB/Reddit/X), **85% topic classification accuracy**, RAG chatbot + dashboards |
-| 🎙️ Media analysis pipeline | **94% speaker diarization accuracy**, 80+ hrs/week processed, 25 concurrent requests, CrewAI + vLLM summarization |
-| ⚙️ Infrastructure | FastAPI + Celery + Redis async task management, token/quota monitoring, Telegram bot delivery |
+| Customer Service Platform | A unified platform that allows multiple organizations to manage their support conversations in real time, all within a single, cohesive system |
+| Brand Intelligence Solution | Helps companies understand how they're being talked about across social media at scale, turning conversations into actionable insight |
+| Media Intelligence System | Automatically makes sense of large volumes of audio content every week, surfacing what matters without manual review |
+| SiteGuard Vision AI | A real-time monitoring system that helps keep industrial sites safer by automatically spotting hazards as they happen |
+| ATS (Applicant Tracking System) | Helps organizations find the best-fit candidates for a role by intelligently matching applicants against job requirements |
 
-**AI Engineer Instructor (Part-time) — IctHub** · Cairo, Egypt · *Jul 2026 – Present*
-Teaching Machine Learning, Deep Learning, and Generative AI through hands-on, project-based training.
+**AI Software Engineer Instructor (Part-time)** · IctHub · Cairo, Egypt · Jul 2026 – Present
 
----
+Teach applied Machine Learning, Deep Learning, and Generative AI through project-based training.
 
-## 🛠 Featured Projects
+<br/>
 
-| Project | Description | Stack |
+## Projects
+
+| Project | Impact | Stack |
 |---|---|---|
-| 📄 **[DocuMind](https://github.com/Mohammed-saber1)** | Multimodal AI document platform (PDF, Office, audio, video, web, YouTube) with hybrid RAG, citation-aware answers, and multilingual voice via Vapi/Twilio | LangChain, FastAPI, Celery, Redis, MongoDB, ChromaDB |
-| 🩺 **[MedAgent](https://github.com/Mohammed-saber1)** | Multi-agent medical research assistant with live PubMed/web search, self-reflection loops, and evidence-attributed reports | LangGraph, FastAPI, Streamlit, MongoDB |
-| 🛡 **SiteGuard Vision AI** | Real-time industrial safety monitoring platform using fine-tuned YOLOv8 for compliance detection | YOLOv8, OpenCV, Computer Vision |
-| 🧬 **[Alzheimer Disease Prediction](https://github.com/Mohammed-saber1)** | Ensemble classifier (XGBoost, RF, SVM) on 5,000+ patient records — **92.3% accuracy**, 0.95 AUC-ROC, SHAP explainability | Scikit-learn, XGBoost, SMOTE, SHAP |
-| 🧴 **Dermatection** *(Graduation Project — Ranked 1st)* | Fine-tuned ResNet50 on 10,000+ dermatology images, **94% accuracy** across 7 disease categories, deployed via Flask + TensorFlow Serving | ResNet50, TensorFlow Serving, Flask |
+| Contactrix | AI-powered contact center platform unifying customer service across chat, voice, and digital channels  a smart chatbot paired with a voice agent, built on a scalable, multi-tenant, multilingual foundation | FastAPI, LangGraph, MongoDB, Qdrant, Redis, RabbitMQ, Celery  |
+| MedAgent | Multi-agent medical research assistant with autonomous planning and evidence verification over live PubMed and web search | LangGraph, FastAPI, MongoDB |
+| SiteGuard Vision AI | Real-time industrial safety monitoring with fine-tuned object detection | YOLOv8, OpenCV |
+| Alzheimer Disease Prediction | Ensemble diagnostic model, 92.3% accuracy, 0.95 AUC-ROC, on 5,000+ patient records | Scikit-learn, XGBoost, SHAP |
+| Dermatection | Skin-disease classifier, 94% accuracy across 7 categories, deployed as a production inference API | ResNet50, TensorFlow Serving, Flask |
 
----
+*Repositories are private; available on request.*
 
-## 🧰 Tech Stack
+<br/>
 
-**LLM Frameworks**
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-4A90E2?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+## Technology
 
-**Retrieval & Vector Search**
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-009688?style=flat-square) ![BM25](https://img.shields.io/badge/BM25-2E8B57?style=flat-square)
-
-**Speech & Vision**
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-00CED1?style=flat-square)
-
-**Backend & Infra**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**ML & Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Cloud & Observability**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-1C1C1C?style=flat-square) ![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammed-saber1&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-saber1&theme=tokyonight&hide_border=true"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,redis,mongodb,postgres,azure,git" alt="tech stack icons"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-saber1&theme=react-dark&hide_border=true"/>
-</p>
+| Category | Tools |
+|---|---|
+| LLM & Agents | LangChain, LangGraph, CrewAI, vLLM, Hugging Face Transformers |
+| Retrieval | Qdrant, ChromaDB, FAISS, BM25, cross-encoder reranking |
+| Vision & Speech | YOLOv8, OpenCV, Whisper, PaddleOCR |
+| Infrastructure | FastAPI, Celery, Redis, Docker, PostgreSQL, MongoDB |
+| Cloud | Azure AI Services, Oracle Cloud Infrastructure |
 
----
+<br/>
 
-## 🏅 Certifications
+## Certifications
 
-- Oracle Cloud Infrastructure Generative AI Professional — Oracle Cloud, 2025
-- Oracle Cloud Infrastructure AI Foundations Associate — Oracle Cloud, 2025
-- LLM Engineering: Master AI & Large Language Models — Udemy, 2025
-- Generative AI with LangChain & Hugging Face — Udemy, 2025
+Oracle Cloud Infrastructure Generative AI Professional · Oracle Cloud Infrastructure AI Foundations Associate · LLM Engineering (Udemy) · Generative AI with LangChain & Hugging Face (Udemy)
 
-## 🎓 Education
+## Education
 
-**Bachelor of Computer Science** · Modern Academy for Engineering and Technology · Cairo, Egypt · 2019 – 2023
+Bachelor of Computer Science, Modern Academy for Engineering and Technology, Cairo, Egypt
 
----
+<br/>
 
 <div align="center">
 
-### 🤝 Let's Connect
+<a href="mailto:mohammed.saber.business@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/mohamedsaber14">LinkedIn</a> ·
+<a href="https://Muhammad-Saber.dev">Portfolio</a> ·
+<a href="https://github.com/Mohammed-saber1">GitHub</a>
 
-📧 [mohammed.saber.business@gmail.com](mailto:mohammed.saber.business@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mohamedsaber14) &nbsp;|&nbsp; 🌐 [Portfolio](https://Muhammad-Saber.dev) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/Mohammed-saber1)
-
-💡 Open to collaborations on AI systems, LLM platforms, and multi-agent architectures
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
